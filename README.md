@@ -1,6 +1,6 @@
 <h1 align="center">Raphael Santos França Oliveira</h1>
 
-<h3 align="center">Olá, bem-vindo ao meu GitHub! 👋
+<h3 align="left">Olá, bem-vindo ao meu GitHub! 👋
 Sou um profissional extrovertido, comunicativo e autodidata, apaixonado por tecnologia e desenvolvimento de software. Tenho um foco especial na área de Full-Stack, mas estou sempre aberto a aprender e explorar novas tecnologias.
 
 Aqui você encontrará projetos que refletem meu compromisso com a qualidade, inovação e o contínuo aprendizado. Estou sempre buscando oportunidades para aplicar meus conhecimentos e colaborar em iniciativas que promovam o crescimento profissional e o sucesso da equipe.
@@ -8,7 +8,7 @@ Aqui você encontrará projetos que refletem meu compromisso com a qualidade, in
 Sinta-se à vontade para explorar meus repositórios e contribuir com sugestões ou melhorias. Vamos aprender e crescer juntos! 🚀</h3>
 
 
-<h3 align="center">Full-stack developer</h3>
+<h3 align="left">Full-stack developer</h3>
 
 
 - 🌱 I’m currently learning **Python, React.Js, Node.Js**
@@ -36,4 +36,4 @@ Sinta-se à vontade para explorar meus repositórios e contribuir com sugestões
 
 
 
-<h3 align="center">Estou aberto a colaborações, oportunidades e feedbacks!</h3>
+<h3 align="left">Estou aberto a colaborações, oportunidades e feedbacks!</h3>
