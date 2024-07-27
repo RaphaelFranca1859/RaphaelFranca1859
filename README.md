@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raphael França</h1>
-<h3 align="center">A passionate full-stack developer from Brazil</h3>
+<h3 align="center">Estudante do curso Bacharelado em Sistemas de informação pelo Instituto Federal de São Paulo - IFSP, apaixonado por tecnologia.</h3>
+<h3 align="center">Full-stack developer</h3>
+
 
 - 🌱 I’m currently learning **Python, React.Js, Node.Js**
 
