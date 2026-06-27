@@ -15,8 +15,6 @@ Atualmente, meu foco está no ecossistema **Python**, **React.js** e **Node.js**
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
 ## 🛠️ Habilidades & Proficiência
 
 ### 💻 Programação & Web
