@@ -1,3 +1,22 @@
+# 👋 Olá, eu sou Raphael Santos França Oliveira
+
+Sou um **Desenvolvedor Full-Stack** apaixonado por criar soluções escaláveis e experiências digitais que fazem a diferença. Com uma abordagem autodidata e mente aberta para novas tecnologias, busco sempre unir código limpo, design intuitivo e boas práticas de engenharia de software.
+
+Atualmente, meu foco está no ecossistema **Python**, **React.js** e **Node.js**, mas estou sempre explorando novas ferramentas que agreguem valor aos projetos e às equipes com as quais colaboro.
+
+---
+
+## 🚀 Projetos em Destaque
+
+- **Portfólio Pessoal** – Meu espaço na web para apresentar trabalhos, habilidades e experiências.  
+  👉 [raphaelfranca1859.github.io](https://raphaelfranca1859.github.io/#top)
+
+> Fique à vontade para explorar meus repositórios e ver na prática como aplico conceitos de desenvolvimento ágil, arquitetura de software e integração contínua.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
 ## 🛠️ Habilidades & Proficiência
 
 ### 💻 Programação & Web
@@ -41,3 +60,17 @@
 ![Requisitos](https://img.shields.io/badge/Levantamento_de_Requisitos-Experiência-0078D4?style=for-the-badge)
 ![DocTécnica](https://img.shields.io/badge/Documentação_Técnica-Experiência-0078D4?style=for-the-badge)
 ![DSR](https://img.shields.io/badge/Design_Science_Research-Acadêmico-9B59B6?style=for-the-badge)
+---
+
+## 📫 Como me encontrar
+
+Estou sempre aberto a novas conexões, colaborações e oportunidades. Vamos conversar!
+
+- 📧 **E-mail**: [raphaeloliveira1859@gmail.com](mailto:raphaeloliveira1859@gmail.com)
+- 💼 **LinkedIn**: [in/raphael-franca-1859](https://www.linkedin.com/in/raphael-franca-1859/)
+- 🐦 **Twitter**: [@raphael_franca](https://twitter.com/raphael_franca)
+- 🎮 **Discord**: [raphael_franca](https://discord.gg/raphael_franca)
+
+---
+
+> *“Aprender é a única coisa que a mente nunca se cansa de fazer.”* – Leonardo da Vinci
