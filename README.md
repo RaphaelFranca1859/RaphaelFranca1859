@@ -68,8 +68,6 @@ Estou sempre aberto a novas conexões, colaborações e oportunidades. Vamos con
 
 - 📧 **E-mail**: [raphaeloliveira1859@gmail.com](mailto:raphaeloliveira1859@gmail.com)
 - 💼 **LinkedIn**: [in/raphael-franca-1859](https://www.linkedin.com/in/raphael-franca-1859/)
-- 🐦 **Twitter**: [@raphael_franca](https://twitter.com/raphael_franca)
-- 🎮 **Discord**: [raphael_franca](https://discord.gg/raphael_franca)
 
 ---
 
