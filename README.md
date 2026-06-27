@@ -1,44 +1,41 @@
-<h1 align="center">Raphael Santos França Oliveira</h1>
+# 👋 Olá, eu sou Raphael Santos França Oliveira
 
-<h3 align="left">Olá, bem-vindo ao meu GitHub! 👋
+Sou um **Desenvolvedor Full-Stack** apaixonado por criar soluções escaláveis e experiências digitais que fazem a diferença. Com uma abordagem autodidata e mente aberta para novas tecnologias, busco sempre unir código limpo, design intuitivo e boas práticas de engenharia de software.
 
-  
-Sou um profissional extrovertido, comunicativo e autodidata, apaixonado por tecnologia e desenvolvimento de software. Tenho um foco especial 
-na área de Full-Stack, mas estou sempre aberto a aprender e explorar novas tecnologias.
+Atualmente, meu foco está no ecossistema **Python**, **React.js** e **Node.js**, mas estou sempre explorando novas ferramentas que agreguem valor aos projetos e às equipes com as quais colaboro.
 
-Aqui você encontrará projetos que refletem meu compromisso com a qualidade, inovação e o contínuo aprendizado. Estou sempre buscando oportunidades 
-para aplicar meus conhecimentos e colaborar em iniciativas que promovam o crescimento profissional e o sucesso da equipe.
+---
 
-Sinta-se à vontade para explorar meus repositórios e contribuir com sugestões ou melhorias. Vamos aprender e crescer juntos! 🚀</h3>
+## 🚀 Projetos em Destaque
 
+- **Portfólio Pessoal** – Meu espaço na web para apresentar trabalhos, habilidades e experiências.  
+  👉 [raphaelfranca1859.github.io](https://raphaelfranca1859.github.io/#top)
 
-<h3 align="left">Full-stack developer</h3>
+> Fique à vontade para explorar meus repositórios e ver na prática como aplico conceitos de desenvolvimento ágil, arquitetura de software e integração contínua.
 
+---
 
-- 🌱 I’m currently learning **Python, React.Js, Node.Js**
+## 🛠️ Tecnologias & Ferramentas
 
-- 📫 How to reach me **raphaeloliveira1859@gmail.com**
+<div style="display: inline_block">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/raphaelfranca1859" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="raphaelfranca1859" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raphael-fran%c3%a7a-a2167a94/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raphael-fran%c3%a7a-a2167a94/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/26531254/raphael-fran%c3%a7a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/26531254/raphael-fran%c3%a7a" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Linguagens:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 📫 Como me encontrar
 
-<h3 align="left">Ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+Estou sempre aberto a novas conexões, colaborações e oportunidades. Vamos conversar!
 
-<h3 align="left">Banco de dados:</h3>
-<p align="left"> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+- 📧 **E-mail**: [raphaeloliveira1859@gmail.com](mailto:raphaeloliveira1859@gmail.com)
+- 💼 **LinkedIn**: [in/raphael-franca-1859](https://www.linkedin.com/in/raphael-franca-1859/)
+- 🐦 **Twitter**: [@raphael_franca](https://twitter.com/raphael_franca)
+- 🎮 **Discord**: [raphael_franca](https://discord.gg/raphael_franca)
 
-<h3 align="left">Design:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
 
-
-
-
-<h3 align="left">Estou aberto a colaborações, oportunidades e feedbacks!</h3>
+> *“Aprender é a única coisa que a mente nunca se cansa de fazer.”* – Leonardo da Vinci
