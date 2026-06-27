@@ -65,7 +65,7 @@ Atualmente, meu foco está no ecossistema **Python**, **React.js** e **Node.js**
 Estou sempre aberto a novas conexões, colaborações e oportunidades. Vamos conversar!
 
 - 📧 **E-mail**: [raphaeloliveira1859@gmail.com](mailto:raphaeloliveira1859@gmail.com)
-- 💼 **LinkedIn**: [in/raphael-franca-1859](https://www.linkedin.com/in/raphael-franca-1859/)
+- 💼 **LinkedIn**: [[in/raphael-franca-1859](https://www.linkedin.com/in/raphael-franca-1859/)](https://www.linkedin.com/in/raphael-fran%C3%A7a-a2167a94/)
 
 ---
 
